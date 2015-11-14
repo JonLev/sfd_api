@@ -45,3 +45,9 @@ group :test, :development do
   gem 'spring-commands-rspec'
   gem 'apipie-rails' # Generate documentation
 end
+
+# apis
+gem 'soundcloud'
+
+# connection
+gem 'cassandra-driver'
